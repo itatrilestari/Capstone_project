@@ -1,4 +1,4 @@
-# Capstone_project
+# Medical Waste Classification
 
 This is a model that classify types of medical waste. Medical Waste has 4 types, there are : 
 1. Cytotoxic 
